@@ -1,0 +1,39 @@
+{
+  "name": "api-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquemachad0/api-ts.git"
+  },
+  "keywords": [],
+  "author": "Henrique <henriquemach44do@gmail.com> (http://www.teste.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henriquemachad0/api-ts/issues"
+  },
+  "homepage": "https://github.com/henriquemachad0/api-ts#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "mongoose": "^6.3.6",
+    "morgan": "^1.10.0",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "@types/config": "^0.0.41",
+    "@types/express": "^4.17.13",
+    "@types/mongoose": "^5.11.97",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^17.0.41",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.3"
+  }
+}
