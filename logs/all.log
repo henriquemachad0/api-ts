@@ -1,0 +1,29 @@
+2022-06-10 19:12:29:1229 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:13:14:1314 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:13:14:1314 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:13:27:1327 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:13:27:1327 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:14:16:1416 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:14:16:1416 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:24:49:2449 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:24:49:2449 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:28:30:2830 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:28:30:2830 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:28:40:2840 - [35mhttp[39m: [35mGET /api/test 200 12 - 3.956 ms[39m
+[35m[39m
+2022-06-10 19:37:05:375 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:37:05:375 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:38:51:3851 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 2.328 ms[39m
+[35m[39m
+2022-06-10 19:42:37:4237 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:42:37:4237 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:43:33:4333 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:43:33:4333 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:44:50:4450 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-06-10 19:45:35:4535 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-06-10 19:45:35:4535 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2022-06-10 19:45:42:4542 - [35mhttp[39m: [35mPOST /api/movie 201 131 - 33.594 ms[39m
+[35m[39m
+2022-06-10 19:46:21:4621 - [35mhttp[39m: [35mPOST /api/movie 201 156 - 21.832 ms[39m
+[35m[39m
